@@ -51,9 +51,9 @@ liverpool: 1w 2d 3l = 5pts
 # | nama tim          | p | w | l | d | gf | gd | ga | pts | last 3 matches
 --|-------------------|---|---|---|---|----|----|----|-----|---------------
 1 | arsenal           | 6 | 3 | 2 | 1 | 14 | 9  | 5  | 11  | d l w
-2 | manchester united | 6 | 3 | 1 | 2 | 10 | 9  | 5  | 10  | d w w
-3 | manchester city   | 6 | 2 | 1 | 3 | 8  | 12 | 5  | 7   | l w l
-4 | liverpool         | 6 | 1 | 2 | 3 | 7  | 11 | 5  | 5   | w l d
+2 | manchester united | 6 | 3 | 1 | 2 | 10 | 9  | 1  | 10  | d w w
+3 | manchester city   | 6 | 2 | 1 | 3 | 8  | 12 | -4 | 7   | l w l
+4 | liverpool         | 6 | 1 | 2 | 3 | 7  | 11 | -4 | 5   | w l d
 ```
 ## Algorithm
 ### Display Table
